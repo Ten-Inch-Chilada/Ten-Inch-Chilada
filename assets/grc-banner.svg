@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Governance, Risk and Compliance — learning with purpose</title>
+  <desc id="desc">A navy and teal banner for Joshua's GRC training portfolio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101f32"/><stop offset="1" stop-color="#172e43"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#59d8c0"/><stop offset="1" stop-color="#6abde9"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7ba5be" stroke-opacity=".09"/></pattern>
+  </defs>
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#grid)"/>
+  <path d="M0 319H1280" stroke="url(#accent)" stroke-width="5"/>
+  <rect x="54" y="54" width="38" height="4" rx="2" fill="#59d8c0"/>
+  <text x="106" y="61" fill="#a9c1d1" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">GRC TRAINING PORTFOLIO</text>
+  <text x="54" y="130" fill="#f4f8fc" font-family="Segoe UI,Arial,sans-serif" font-size="45" font-weight="700">Learning with purpose.</text>
+  <text x="54" y="188" fill="#6de0cd" font-family="Segoe UI,Arial,sans-serif" font-size="45" font-weight="700">Building toward trust.</text>
+  <text x="56" y="250" fill="#b4c7d6" font-family="Segoe UI,Arial,sans-serif" font-size="19">Governance. Risk. Compliance.</text>
+  <g transform="translate(878 48)" font-family="Segoe UI,Arial,sans-serif">
+    <path d="M23 32V209M23 59H65M23 119H65M23 179H65" stroke="#456476" stroke-width="2" fill="none"/>
+    <circle cx="23" cy="59" r="5" fill="#6de0cd"/><circle cx="23" cy="119" r="5" fill="#6abde9"/><circle cx="23" cy="179" r="5" fill="#b1c4dd"/>
+    <rect x="65" y="34" width="267" height="49" rx="9" fill="#1c394a" stroke="#3b6570"/>
+    <text x="84" y="65" fill="#92e5d6" font-size="16" font-weight="600" letter-spacing="2">GOVERNANCE</text>
+    <rect x="65" y="94" width="267" height="49" rx="9" fill="#1b344a" stroke="#365675"/>
+    <text x="84" y="125" fill="#9ed7f5" font-size="16" font-weight="600" letter-spacing="2">RISK</text>
+    <rect x="65" y="154" width="267" height="49" rx="9" fill="#27394f" stroke="#4b5d77"/>
+    <text x="84" y="185" fill="#d2dded" font-size="16" font-weight="600" letter-spacing="2">COMPLIANCE</text>
+    <text x="67" y="241" fill="#88a7bc" font-size="13" letter-spacing="1">A FOUNDATION FOR ASSURANCE</text>
+  </g>
+</svg>
